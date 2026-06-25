@@ -1,0 +1,28 @@
+![[Algorithmic Game Theory (Lecture 3： Myerson's Lemma) [9qZwchMuslk].mkv]]
+### Revision
+
+Vickrey auctions are awesome because of 3 reasons
+
+1. $(1)$ Dominant-strategy incentive compatible (DSIC) - There is a dominant strategy that guarantees maximum utility no matter what other bidders choose, and utility is always non-negative using this strategy
+2. $(2)$ Maximises social surplus - If bidders bid truthfully, the action maximises the social surplus = value of winner aka highest valuation bidder wins $\sum{v_i\cdot x_i}$ from $i=1$ to $i=n$ where $x_i$ = 1 if $i$ won the auction and $x_i=0$ if $i$ lost the auction
+3. $(3)$ Run in poly-time
+
+Raises the question - Could we have equally awesome options for more complex allocation problems such as sponsored search options
+
+**Proposed methodology** for finding awesome options for these problems
+1. solve $(2)$+$(3)$, assuming truthful bids
+2. given step 1, how to assign payments to get $(1)$
+
+Solved step 1 for sponsored search options - greedy solution that allocates $j$th highest bidder to the $j$th slot for $[j=1,2,...,k]$
+### Today
+
+- General understanding of what DSIC look like
+- = Solution for step $2$ in proposed methodology that explains the exact space of all DSIC, and thus that there is an awesome option for sponsored search
+- Results for the 1st price auction experiment from last lecture
+- Further applications in coming lectures
+
+---
+
+
+
+

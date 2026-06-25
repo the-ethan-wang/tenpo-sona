@@ -1,0 +1,134 @@
+
+![[Algorithmic Game Theory (Lecture 1： Introduction and Examples) [TM_QFmQU_VA].webm]]
+
+### TODAY
+
+- introduction - CS364A - Algorithmic Game theory(topics from CS and economics)
+- taste of the course
+- loosely around 3 themes, example for each
+### Course Goal 1: Designing systems for strategic participants with good performance (Achieve desirable outcome)
+
+**Example**: 2012 Olympics, women's doubles badminton
+Claim: Misalignment between participant goals and designer goals
+
+4 teams of 4, round robin then knockout
+
+Participant goals -> Achieve the best medals it can get
+Designer goals -> Best effort from all teams in all matches
+
+In a case where a strong team, team X has lost and teams A and B know of this, and due to the nature of the knockout's pairing, the winner of A vs B will verse team X in the semi-finals and the loser will verse team X in the finals, losing helps teams A and B. As a result, XY and KH intentionally try to lose their match so they can have a greater chance at achieving the silver medal
+
+Point: **The rules of the game matter. You cannot expect participants to behave in a way other than in their own interests. You must account for strategic behaviour. If you don't do this carefully, you will get unexpected and often undesirable consequences**
+
+First 50% of course: principles for system design that properly take into account strategic behaviour, mechanism design
+
+Killer apps: Search auctions, spectrum auctions, kidney exchange, medical residents to hospitals, school children to elementary schools.
+
+---
+### Course goal 2: When is selfish behaviour benign?
+
+**Example**: Braess's paradox ('68)
+
+Flow network, traffic from S to T
+There are two paths: upper route using V and lower wrote using W as a midpoint
+
+Lots of cars move from S to T at the same time, from S to T
+
+From V to T and S to W, the time it takes to get from the beginning to the end is constant: 1 hour
+
+From S to V and W to T, the time it takes to get from the beginning to the end is equal to the fraction of all drivers going from S to T taking that road.
+
+**In a steady state, the split is around 50-50. The equilibrium is at an even split, and it takes everyone 3/2 hours to get from S-T**
+
+However, a teleporter is introduced connecting V and W with infinite capacity and the time it takes is 0
+
+In this case, the best path for every individual is to take the path from S-V then teleport from W-T. This path is the best for every individual, no other path can beat this path, so it is the dominant strategy. In this case where everyone takes the teleporting route, everyone takes 2 hours to get from S-T. This is less than before the teleporter was introduced.
+
+**Corollary: Selfish routing doesn't minimise commute time (2 vs 3/2)**
+
+If there was a dictator telling everyone what to do, the dictator can organise back into the 50-50 split. This can be proven to be the most optimal strategy.
+
+Concept in CS: **Price of Anarchy**
+In this case, the PoA = (3/2) / 2 = 4/3
+The closer the number is to 1, the more benign selfish behaviour is, and the more robust your system is to strategic behaviour
+when it is 1, strategic behaviour = your goal
+
+**Goal**: Under what conditions is the PoA close to 1?
+
+**Killer apps**: network routing, scheduling problems, simple auction formats, etc.
+
+To analyse systems taking into account strategic thinking, we need a behavioural model for what people do in situations, what decisions are made. We will assume that if players have an obvious dominant option, they will take it.
+
+Dominant strategy -> no other strategy ever beats it
+
+**Aside**: Conan/Horowitz -> physical experiment describing Braess's paradox
+
+Base
+Spring 
+String(taut)
+Spring
+Heavy weight
+
+Superfluous strings from top of top spring to top of bottom spring
+bottom of top spring to bottom of bottom string
+
+![[Pasted image 20260411000032.png]]
+
+What happens if the middle short string is cut?
+
+The weight moves up.
+
+Two explanations are possible:
+
+Direct explanation, and reduction to Braess's paradox.
+
+Force = Traffic flow
+Distance = Travel time
+Cutting taut string = Removing teleporter
+
+Conclusion: Braess's paradox isn't just about traffic networks, applies to real world.
+
+---
+### Course goal 3: How do strategic players reach an equilibrium? Do they reach an equilibrium?
+
+Rock paper scissors bimatrix game format 
+row player payoff, column player payoff
+
+|     | R    | P    | S    |
+| --- | ---- | ---- | ---- |
+| R   | 0 0  | -1 1 | 1 -1 |
+| P   | 1 -1 | 0 0  | -1 1 |
+| S   | -1 1 | 1 -1 | 0 0  |
+No "deterministic" equilibrium
+
+Allowing mix strategies/randomise strategies: there is an equilibrium.
+
+If each player randomises uniformly, you get a (mixed) **Nash equilibrium**. 
+
+Nash showed that **every (finite player) game has a Nash equilibrium**.
+
+bimatrix = 2 player game
+
+Also, for zero sum games, **the Nash equilibrium can be found in polynomial time.**
+
+To find an approximate Nash equilibrium, very simple iterable learning strategies can be used. (Humans can compute it through learning)
+
+But: In general, if a game is not zero sum, there exists no polynomial time algorithm to find the Nash equilibrium. (2006)
+(not NP-hard)
+this problem is unlikely to be np or np-complete
+PPID is the complexity class of this problem (PPID-hard)
+
+**Why you should care:** 
+- Nash equilibrium provides us with a problem that is between P and NP complete -> PPID-hard (it seems)
+- Intractability critique of Nash equilibrium -> since not polynomial time algorithm computed
+
+---
+
+### End of class
+
+Reinforce your learning after class.
+
+Weekly exercise sets to reinforce learning.
+Biweekly problem sets to extend course, solve collaboratively.
+
+Check Tim Roughgarden's website for course website
