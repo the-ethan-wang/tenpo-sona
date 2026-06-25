@@ -1,6 +1,7 @@
 # cs-wiki
 
-well this includes discrete maths too
+well this includes non-discrete maths too
+well this includes physics too
 
 - https://en.wikipedia.org/wiki/German_tank_problem
 - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
@@ -51,3 +52,5 @@ well this includes discrete maths too
 - https://www.youtube.com/watch?v=Iq_r7IcNmUk
 - https://www.youtube.com/watch?v=nXrEX6j-Mws
 - https://www.youtube.com/watch?v=ffUnNaQTfZE
+- https://en.wikipedia.org/wiki/Mersenne_Twister
+- https://www.youtube.com/watch?v=Kwyk_mteyNc lol i am not good enough for any of this maybe other ones lol

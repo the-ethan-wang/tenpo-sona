@@ -2,6 +2,8 @@
 
 Notes written using obsidian
 
+Currently on Lecture 3
+
 ## LINKS
 
 [Lecture 1](https://www.youtube.com/watch?v=TM_QFmQU_VA)

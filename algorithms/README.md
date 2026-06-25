@@ -1,6 +1,6 @@
 # Algorithms
 
-Interesting algorithms. Implementation practice
+Interesting algorithms. Implementation practice and research and learning.
 
 - cfop solver
 - wave function collapse image generate using initial bitmap (like https://jaxry.github.io/wave-function-collapse/)
@@ -20,3 +20,8 @@ Interesting algorithms. Implementation practice
 - https://en.wikipedia.org/wiki/Reflective_programming
 - solve enclose.horse with modifiers (build off of https://dynomight.substack.com/p/horse/comments)
 - database and blockchain
+- tensorflow
+- mt1997 https://en.wikipedia.org/wiki/Mersenne_Twister
+- spider monkey random generator how
+- floating point numbers
+- alphazero for go and chess
