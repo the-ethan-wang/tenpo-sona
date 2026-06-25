@@ -2,7 +2,7 @@
 
 well this includes non-discrete maths too
 well this includes physics too
-
+- https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis
 - https://en.wikipedia.org/wiki/German_tank_problem
 - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
 - https://en.wikipedia.org/wiki/Byzantine_fault

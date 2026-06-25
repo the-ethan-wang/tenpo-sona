@@ -13,3 +13,4 @@
 - casio calculator !!
 - connect four theory
 - four wide bot tetris
+- real congle but make it stupid

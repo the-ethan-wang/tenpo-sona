@@ -22,8 +22,10 @@ probably just wikipedia and youtube
 
 ## wats here rn
 
-- algorithmic game theory notes
-- conways game of life playing around
+studying
+- algorithmic game theory
+- conways game of life
+- lambda calculus
 
 ## Extension plug
 
@@ -36,4 +38,11 @@ https://www.youtube.com/watch?v=MAlSjtxy5ak
 
 ## next
 
-- https://www.youtube.com/watch?v=SYDAcivFV-U particle life
+- https://www.youtube.com/watch?v=SYDAcivFV-U particle life, kinda similar in focus to conway so probably procrastinate this
+- https://www.youtube.com/watch?v=0HqUYpGQIfs 
+- cellular automata
+- https://www.youtube.com/watch?v=gIQ7HOcvuso&pp=ugUHEgVlbi1VUw%3D%3D
+- https://www.youtube.com/watch?v=6tZXSl1dL5A electrons orbit and waves [ok i got 13 minutes in before getting confused (._.)]
+
+- wikipedia list and summer of maths https://www.youtube.com/hashtag/somepi
+- read up on turing 
