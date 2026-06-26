@@ -1,6 +1,5 @@
 # Program ideas
 
-- simple wiki-scraper for saving wiki pages, probably just use selenium's `driver.page_source` and save as html file with the wiki endpoint as the `filename.html`. reads from txt and saves cached wiki pages as a json list of strs
 - library of babel type project but for something else
 - tetris opener analyser and finder and pc finder lol
 - classical music library but good
@@ -14,3 +13,5 @@
 - connect four theory
 - four wide bot tetris
 - real congle but make it stupid
+- decrypt enigma cipher or at least read on how turing did
+- implement marching squares algorithm

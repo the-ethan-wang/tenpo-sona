@@ -1,0 +1,18 @@
+https://www.geeksforgeeks.org/system-design/byzantine-fault-tolerance-in-distributed-system/
+https://www.mathsjam.com/assets/talks/2024/C%20Alexander%20Bolton%20-%20Covering%20Points%20with%20Disjoint%20Unit%20Discs.pdf
+https://2012.cccg.ca/papers/paper13.pdf
+https://www.cut-the-knot.org/Probability/ProbabilisticMethod.shtml
+https://en.wikipedia.org/wiki/Myerson%E2%80%93Satterthwaite_theorem
+https://www.youtube.com/watch?v=s86-Z-CbaHA
+https://www.youtube.com/watch?v=bOCHTHkBoAs
+https://www.youtube.com/watch?v=pEfrdAtAmqk
+https://www.youtube.com/watch?v=Iq_r7IcNmUk
+https://www.youtube.com/watch?v=nXrEX6j-Mws
+https://www.youtube.com/watch?v=ffUnNaQTfZE
+https://en.wikipedia.org/wiki/Mersenne_Twister
+https://www.youtube.com/watch?v=Kwyk_mteyNc lol i am not good enough for any of this maybe other ones 
+Basic Proof Theory by Troelstra and Schwichtenberg
+To Mock a Mockingbird and Other Logic Puzzles: Including an Amazing Adventure in Combinatory Logic 
+Mathematica Principia
+3 body problem
+Think by Simon Blackburn
