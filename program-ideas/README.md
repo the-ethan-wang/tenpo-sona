@@ -15,3 +15,7 @@
 - real congle but make it stupid
 - decrypt enigma cipher or at least read on how turing did
 - implement marching squares algorithm
+- resonant pitch finder app (lol)
+- tetrio boardwide and 10pc solver
+- https://freshman.dev/wordle/leaderboard wordle bot. lol.
+- bad apple but "real" bf 

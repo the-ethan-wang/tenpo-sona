@@ -12,3 +12,4 @@ https://en.wikipedia.org/wiki/Embarrassingly_parallel
 https://en.wikipedia.org/wiki/Synchronization
 https://en.wikipedia.org/wiki/Lebombo_bone
 https://en.wikipedia.org/wiki/Logic_puzzle
+https://en.wikipedia.org/wiki/Chomp

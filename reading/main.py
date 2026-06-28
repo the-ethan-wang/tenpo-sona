@@ -1,3 +1,4 @@
+from tqdm import tqdm
 from urllib.parse import unquote
 from pathlib import Path
 import os
@@ -36,9 +37,9 @@ if __name__ == "__main__":
 
     print("Getting pages...")
 
-    pages = [get_page(title) for title in titles]
+    pages = [get_page(title) for title in tqdm(titles, desc="Getting pages")]
 
-    datas = [get_data(page) if page else {} for page in pages]
+    datas = [get_data(page) if page else {} for page in tqdm(pages, desc="Extracting data")]
 
     print("Sorting my length...")
 

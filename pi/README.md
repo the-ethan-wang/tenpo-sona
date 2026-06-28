@@ -1,0 +1,33 @@
+# Approximating pi
+
+- Monte Carlo method with a quadrant of a circle in a square <-- high computational cost at n=1e7, pretty stagnant for new squares getting picked. very interesting. rate of new over time is inversely proportional to time ie dx/dt = kt, by separation of variables x = ln|kt| thus x = e^kt. let k = -k. thus `x = e^-kt` would you LOOK AT THAT
+- btw when i reached n=1e8 pi was at 3.14159 this took s because im displaying it, terminal output lag, unnecessary checks with set and adding to set and python is slow. 283300/360000(78.69% filled)
+- drop needle on lines
+- integral
+- Ramanujan ([proof](https://www.youtube.com/watch?v=AQZX0GHcSmE))
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Ramanujan
+- Newton https://blogs.sas.com/content/iml/2023/03/08/newton-pi.html 

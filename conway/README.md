@@ -24,6 +24,8 @@ replace `base.py` with whatever file you want to run
 
 btw if u know programming avert your gaze bruh its not great im writing quickly for ui not for the readability or maintainability of code
 
+also if u do resize the window ermmmmmmmm dont (mouse bug)
+
 ## Links
 
 carykh video "The Conway Multiverse" https://www.youtube.com/watch?v=QK_KZv-YyOc

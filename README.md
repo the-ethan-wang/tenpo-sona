@@ -60,6 +60,6 @@ chrome -> https://github.com/igrigorik/videospeed, find it yourself on chrome we
 - game theory 
 - zero sum game and nash equillibrium
 - https://www.youtube.com/watch?v=2WPA1L9uJqo&pp=ygULc2Nocm9kaW5nZXI%3D
-- read Think
+- read Think or 3body, write chapter notes
 - stack blocks, read Overhang by Mike paterson and Uri Zwick arxiv.org/abs/0710.2357 https://www.dcs.warwick.ac.uk/~msp/papers/overhang.pdf, parabolic https://www.youtube.com/shorts/FYgrDtFyNt4
-- Ramanujan digits of pi lol ([proof](https://www.youtube.com/watch?v=AQZX0GHcSmE))
+- https://www.youtube.com/watch?v=NOb8dCMP0Ys <-- tensors
