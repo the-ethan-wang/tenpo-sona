@@ -63,3 +63,5 @@ chrome -> https://github.com/igrigorik/videospeed, find it yourself on chrome we
 - read Think or 3body, write chapter notes
 - stack blocks, read Overhang by Mike paterson and Uri Zwick arxiv.org/abs/0710.2357 https://www.dcs.warwick.ac.uk/~msp/papers/overhang.pdf, parabolic https://www.youtube.com/shorts/FYgrDtFyNt4
 - https://www.youtube.com/watch?v=NOb8dCMP0Ys <-- tensors
+- stabilising pendulum program/irl project !?
+- bitmap thingamabob / remember that one 4d civilisation in 3body
