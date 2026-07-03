@@ -261,3 +261,4 @@ https://en.wikipedia.org/wiki/Longest_common_subsequence
 https://en.wikipedia.org/wiki/Graph_coloring
 https://en.wikipedia.org/wiki/Travelling_salesman_problem
 https://en.wikipedia.org/wiki/Chinese_postman_problem#Variants
+https://en.wikipedia.org/wiki/Diminishing_returns

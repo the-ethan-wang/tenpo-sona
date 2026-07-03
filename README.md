@@ -7,7 +7,7 @@ all adjectives follow the noun in toki pona, hence "knowledge time" or "learning
 
 "organised" notes for random learning rabbit holes
 
-probably just wikipedia and youtube
+probably just wikipedia and youtube and programming
 
 - discrete math
 - computer science 
@@ -22,8 +22,8 @@ probably just wikipedia and youtube
 
 ## currently
 
-- learning lambda calculus
 - reading on computation theory
+- balancing an arm
 
 ## wats here rn
 
@@ -65,3 +65,6 @@ chrome -> https://github.com/igrigorik/videospeed, find it yourself on chrome we
 - https://www.youtube.com/watch?v=NOb8dCMP0Ys <-- tensors
 - stabilising pendulum program/irl project !?
 - bitmap thingamabob / remember that one 4d civilisation in 3body
+- rubiks cube sudoku chess tetris
+- original circular pong
+- beat dino game myself maybe
