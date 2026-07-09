@@ -1,1 +1,2 @@
 https://en.wikipedia.org/wiki/Law_of_large_numbers
+https://en.wikipedia.org/wiki/Pigeonhole_principle

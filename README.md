@@ -52,3 +52,4 @@ boring (aka life simiulation adjacent)
 - bitmap thingamabob / remember that one 4d civilisation in 3body
 - rubiks sudoku chess tetris programs
 - original circular pong
+- https://www.youtube.com/watch?v=ENo_B8CZNRQ monad 
