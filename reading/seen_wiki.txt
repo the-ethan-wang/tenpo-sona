@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Synchronization
 https://en.wikipedia.org/wiki/Lebombo_bone
 https://en.wikipedia.org/wiki/Logic_puzzle
 https://en.wikipedia.org/wiki/Chomp
+https://en.wikipedia.org/wiki/Signal_processing
+https://en.wikipedia.org/wiki/State_space_(computer_science)

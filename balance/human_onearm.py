@@ -39,7 +39,16 @@ while running:
     screen.fill(bg)
 
     # Display
+    pressed = pygame.mouse.get_pressed()
+    if any(pressed):
+        mouse_pos = pygame.mouse.get_pos()
+        delta_x = mouse_pos[0] - x
+        x = mouse_pos[0]
+        x_dot = x_dot # idk
 
+    arm = pygame.rect.Rect(x-10, 200-100*y, 20, 100)
+
+    pygame.draw.rect(surface=screen, color=primary, rect=arm)
     pygame.display.flip()
     clock.tick(120)
 

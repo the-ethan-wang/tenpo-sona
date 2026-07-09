@@ -1,4 +1,5 @@
 On Computable numbers, with an application to the entsheidungsproblem - https://www.astro.puc.cl/~rparra/tools/PAPERS/turing_1936.pdf
 Descartes, Meditations on First Philosophy
 Philosophiæ Naturalis Principia Mathematica (newton)
-bru i cannot find the intermolecular radiation damage ionising valence paper bruhhhhhhhhh
+Suppression of X-Ray-Induced Radiation Damage to Biomolecules in Aqueous Environments by Immediate Intermolecular Decay of Inner-Shell Vacancies
+https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication 1948

@@ -25,4 +25,6 @@ Interesting algorithms. Implementation practice and research and learning.
 - spider monkey random generator how
 - floating point numbers
 - alphazero for go and chess
-
+- cellular automata
+- tetris with genetic algorithm https://cs229.stanford.edu/proj2015/238_report.pdf
+- tetris loops, 9-0, 6-3, lst (????), ART????
