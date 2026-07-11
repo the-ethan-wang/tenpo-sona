@@ -27,3 +27,13 @@ https://en.wikipedia.org/wiki/Berry_paradox
 https://en.wikipedia.org/wiki/Strategy_(game_theory)
 https://en.wikipedia.org/wiki/Strategic_dominance
 https://en.wikipedia.org/wiki/Implementation_theory
+https://en.wikipedia.org/wiki/Parallel_algorithm
+https://en.wikipedia.org/wiki/Perfect_information
+https://en.wikipedia.org/wiki/Sequential_algorithm
+https://en.wikipedia.org/wiki/Analysis_of_parallel_algorithms
+https://en.wikipedia.org/wiki/Extensive-form_game
+https://en.wikipedia.org/wiki/The_Martians_(scientists)
+https://en.wikipedia.org/wiki/Symmetric_game
+https://en.wikipedia.org/wiki/Algorithmic_mechanism_design
+https://en.wikipedia.org/wiki/Algorithmic_game_theory
+https://en.wikipedia.org/wiki/Move_by_nature

@@ -11,7 +11,7 @@ math cs phys
 
 ## currently
 
-- reading on computation theory
+- reading on game theory
 - balancing an arm
 
 ## wats here rn
@@ -22,7 +22,6 @@ math cs phys
 
 ## next
 
-- game theory
 - some uninteresting htings
 
 ## ehh
@@ -43,7 +42,6 @@ boring (aka life simiulation adjacent)
 - https://www.youtube.com/watch?v=mkpKR_8z6GU
 - https://www.youtube.com/watch?v=50pXtgintLc
 - cryptography and hashing https://en.wikipedia.org/wiki/Checksum
-- game theory 
 - zero sum game and nash equillibrium
 - https://www.youtube.com/watch?v=2WPA1L9uJqo&pp=ygULc2Nocm9kaW5nZXI%3D
 - read Think or 3body, write chapter notes
