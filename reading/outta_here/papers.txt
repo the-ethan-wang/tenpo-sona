@@ -6,3 +6,4 @@ https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication 1948
 https://www.jstor.org/stable/1969529?origin=crossref
 https://proceedings.mlr.press/v162/emmons22a/emmons22a.pdf
 https://dl.acm.org/doi/10.1145/301250.301287
+https://www.its.caltech.edu/~matilde/GodelChaitin2.pdf
