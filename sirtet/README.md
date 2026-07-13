@@ -1,3 +1,0 @@
-# Sirtet
-
-dont sue me

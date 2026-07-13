@@ -1,6 +1,10 @@
 # Stanford CS364A lectures by Dr. Tim Roughgarden
 
-Notes written using obsidian
+# no this isnt ai obsidian just formats everything with markdown
+# no this isnt ai obsidian just formats everything with markdown
+# no this isnt ai obsidian just formats everything with markdown
+# no this isnt ai obsidian just formats everything with markdown
+# no this isnt ai obsidian just formats everything with markdown
 
 Currently on Lecture 3
 

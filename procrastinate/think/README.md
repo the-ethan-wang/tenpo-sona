@@ -6,3 +6,4 @@ https://softouch.on.ca/kb/data/Think.%20A%20Compelling%20Introduction%20To%20Phi
 
 ## Notes
 
+i will read this SOMEDAY

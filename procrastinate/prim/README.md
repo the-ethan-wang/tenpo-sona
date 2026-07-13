@@ -15,3 +15,5 @@ muc bater
 imtired
 
 pi(x) compared to x/lnx SOON
+
+primes in p implementation logn ^6
