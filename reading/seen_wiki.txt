@@ -98,3 +98,4 @@ https://en.wikipedia.org/wiki/OR_gate
 https://en.wikipedia.org/wiki/Polynomial_identity_testing
 https://en.wikipedia.org/wiki/Termination_analysis
 https://en.wikipedia.org/wiki/Semi-infinite_programming
+https://en.wikipedia.org/wiki/Brute-force_search

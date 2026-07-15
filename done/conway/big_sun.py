@@ -15,7 +15,7 @@ primary = "#F38375"
 secondary = "#717EC3"
 speed_ratio = 8
 
-cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long = False
+cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long_hmm_im_really_bored_and_its_an_unusually_late_hour_of_the_night_so_i_feel_like_adding_more_to_this_really_really_really_really_really_really_really_really_really_long_variable_name_we_should_add_more_to_this_how_about_some_pi_3_1415926535897273238462643383279533846264338327950_idk_if_that_was_right_cuz_i_havent_checked_in_a_long_time_also_if_you_know_more_feel_free_to_submit_a_pull_request_first_you_fork_the_repository_then_make_edits_and_commits_and_then_click_the_contribute_or_create_a_pull_request_its_usually_a_big_big_green_red_button_very_clickable_so_you_just_click_that_and_click_submit_pull_request_then_if_its_right_i_might_accept_thanks_lol = False
 board_state = [[0 for i in range(board_width)] for i in range(board_height)]
 board_state[board_height//2+1][board_width//2]=1
 board_state[board_height//2-1][board_width//2]=1
@@ -35,7 +35,7 @@ while running:
             running = False
         elif event.type == pygame.KEYDOWN:
             if event.key == pygame.K_SPACE:
-                cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long = not cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long
+                cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long_hmm_im_really_bored_and_its_an_unusually_late_hour_of_the_night_so_i_feel_like_adding_more_to_this_really_really_really_really_really_really_really_really_really_long_variable_name_we_should_add_more_to_this_how_about_some_pi_3_1415926535897273238462643383279533846264338327950_idk_if_that_was_right_cuz_i_havent_checked_in_a_long_time_also_if_you_know_more_feel_free_to_submit_a_pull_request_first_you_fork_the_repository_then_make_edits_and_commits_and_then_click_the_contribute_or_create_a_pull_request_its_usually_a_big_big_green_red_button_very_clickable_so_you_just_click_that_and_click_submit_pull_request_then_if_its_right_i_might_accept_thanks_lol = not cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long_hmm_im_really_bored_and_its_an_unusually_late_hour_of_the_night_so_i_feel_like_adding_more_to_this_really_really_really_really_really_really_really_really_really_long_variable_name_we_should_add_more_to_this_how_about_some_pi_3_1415926535897273238462643383279533846264338327950_idk_if_that_was_right_cuz_i_havent_checked_in_a_long_time_also_if_you_know_more_feel_free_to_submit_a_pull_request_first_you_fork_the_repository_then_make_edits_and_commits_and_then_click_the_contribute_or_create_a_pull_request_its_usually_a_big_big_green_red_button_very_clickable_so_you_just_click_that_and_click_submit_pull_request_then_if_its_right_i_might_accept_thanks_lol
             elif event.key == pygame.K_LSHIFT or event.key == pygame.K_RSHIFT:
                 new_board=[[board_state[i][j] for j in range(board_width)] for i in range(board_height)]
                 for i in range(board_height):
@@ -59,7 +59,7 @@ while running:
 
                 board_state = new_board
 
-                # code reuse of all time
+                # code reuse of all time (im too tired to think about global variables)
 
             elif event.key == pygame.K_BACKSPACE:
                 board_state=[[0 for j in range(board_width)] for i in range(board_height)]
@@ -126,7 +126,7 @@ while running:
                 rect = pygame.Rect(8*i, 8*j, 8, 8)
                 pygame.draw.rect(surface=screen, rect=rect, color=primary)
 
-    if(t%speed_ratio==0 and cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long):
+    if(t%speed_ratio==0 and cant_think_of_a_good_variable_name_so_its_time_for_a_really_really_really_terrible_variable_name_because_its_really_long_hmm_im_really_bored_and_its_an_unusually_late_hour_of_the_night_so_i_feel_like_adding_more_to_this_really_really_really_really_really_really_really_really_really_long_variable_name_we_should_add_more_to_this_how_about_some_pi_3_1415926535897273238462643383279533846264338327950_idk_if_that_was_right_cuz_i_havent_checked_in_a_long_time_also_if_you_know_more_feel_free_to_submit_a_pull_request_first_you_fork_the_repository_then_make_edits_and_commits_and_then_click_the_contribute_or_create_a_pull_request_its_usually_a_big_big_green_red_button_very_clickable_so_you_just_click_that_and_click_submit_pull_request_then_if_its_right_i_might_accept_thanks_lol):
         new_board=[[board_state[i][j] for j in range(board_width)] for i in range(board_height)]
         for i in range(board_height):
             for j in range(board_width):

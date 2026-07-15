@@ -8,6 +8,7 @@ sona - "knowledge"
 ## currently
 
 - reading game theory and computation
+- algorithmic game theory
 
 ## wats here rn
 
@@ -17,4 +18,4 @@ sona - "knowledge"
 ## next
 
 - group theory topology cryptography
-- actually THOSE SUCK!!!!111!!
+- actually THOSE SUCK!!!!111!! might as well learn c or shorthand nerd

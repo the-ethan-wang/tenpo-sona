@@ -4,9 +4,9 @@
 
 completely inspired by carykh's video
 
-messing around + research, this is very interesting and so much to explore
+messing around + research, this is very interesting and so much to explore **also incomplete lmao i will never finish this**
 
-if you want to run the sims on your machine you need python 3 and pygame
+if you want to run the simulations on your machine you need python 3 and pygame
 
 ```bash
 python3 -m pip install pygame
@@ -22,7 +22,8 @@ python conway/base.py
 
 replace `base.py` with whatever file you want to run
 
-btw if u know programming avert your gaze bruh its not great im writing quickly for ui not for the readability or maintainability of code
+btw if u know programming avert your gaze bruh its not great im writing quickly for ui not for the readability or maintainability of code  
+no like seriously im warning you 
 
 also if u do resize the window ermmmmmmmm dont (mouse bug)
 
@@ -64,7 +65,7 @@ B345678/S2345678 is so funny
 
 ~~B34/S23 (A World on Fire)~~ done
 
-data analysis for "Life Without Death" B3/S0123456789 - Famous Ladder [ehh tmr]
+data analysis for "Life Without Death" B3/S0123456789 - Famous Ladder
 
 growth analysis (1/3rd the speed of light, etc)
 
@@ -90,7 +91,7 @@ backspace for clear
 
 i might add screenshotting and recording
 
-`maze.py` - base but its maze (b3/12345)
+`maze.py` - maze (b3/12345)
 
 `big_sun.py` - big sun but its b345678/s2345678
 
@@ -121,3 +122,5 @@ demos
 `fire_demo.mp4` - fire demo
 
 uhh epilepsy warning flashing and stuff
+
+<video controls src="fire_demo.mp4" title="Title"></video>
