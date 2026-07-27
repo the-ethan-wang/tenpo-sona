@@ -18,7 +18,6 @@ https://en.wikipedia.org/wiki/Projectile
 https://en.wikipedia.org/wiki/Inelastic_collision
 https://en.wikipedia.org/wiki/Evolutionary_programming
 https://en.wikipedia.org/wiki/Necklace_(combinatorics)
-https://en.wikipedia.org/wiki/Hackenbush
 https://en.wikipedia.org/wiki/Strategy-stealing_argument
 https://en.wikipedia.org/wiki/Outline_of_discrete_mathematics
 https://en.wikipedia.org/wiki/Pipeline_(software)
@@ -1147,15 +1146,10 @@ https://en.wikipedia.org/wiki/PostScript
 https://en.wikipedia.org/wiki/Significand
 https://en.wikipedia.org/wiki/Minimax
 https://en.wikipedia.org/wiki/Octal_game
-https://en.wikipedia.org/wiki/Domineering
-https://en.wikipedia.org/wiki/Partisan_game
-https://en.wikipedia.org/wiki/Quarto_(board_game)
-https://en.wikipedia.org/wiki/Cram_(game)
-https://en.wikipedia.org/wiki/Subtract_a_square
-https://en.wikipedia.org/wiki/Notakto
 https://en.wikipedia.org/wiki/Tic-tac-toe
 https://en.wikipedia.org/wiki/Go_(game)
 https://en.wikipedia.org/wiki/Dominoes
+https://en.wikipedia.org/wiki/Pente
 https://en.wikipedia.org/wiki/Gomoku
 https://en.wikipedia.org/wiki/Sprouts_(game)
 https://en.wikipedia.org/wiki/Kayles
@@ -1188,3 +1182,6 @@ https://en.wikipedia.org/wiki/Rng_(algebra)
 https://en.wikipedia.org/wiki/Rubik's_Cube
 https://en.wikipedia.org/wiki/Snakes_and_ladders
 https://en.wikipedia.org/wiki/Jenga
+https://en.wikipedia.org/wiki/Arithmetic_coding
+https://en.wikipedia.org/wiki/JPEG
+https://en.wikipedia.org/wiki/FFmpeg

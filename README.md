@@ -8,7 +8,9 @@ sona - "knowledge"
 ## currently
 
 - reading game theory and computation
-- algorithmic game theory
+- hexapawn DISPROVING WIKI ING
+- quarto solving time
+- cram for 3\*n for n>=21 meybe, misere grundy values 3\*n
 
 ## wats here rn
 
@@ -17,5 +19,6 @@ sona - "knowledge"
 
 ## next
 
-- group theory topology cryptography
-- actually THOSE SUCK!!!!111!! might as well learn c or shorthand nerd
+- c/shorthand 
+- decode morse faster (sound light tapping)
+- mine bitcoin by hand :>
