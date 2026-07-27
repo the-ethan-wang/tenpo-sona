@@ -1,6 +1,6 @@
 # reading
 
-1:10 ratio for "read" : "to read"  
+1:8 ratio for "read" : "to read"  
 cooked.
 
 ```bash

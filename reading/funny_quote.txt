@@ -1,0 +1,2 @@
+"a tractable syntactic method for proving the absence of certain program behaviors by classifying phrases according to the kinds of values they compute" https://en.wikipedia.org/wiki/Programming_language_theory
+"a monad is a monoid in the category of endofunctors" https://en.wikipedia.org/wiki/Monad_(category_theory)
