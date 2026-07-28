@@ -7,10 +7,10 @@ sona - "knowledge"
 
 ## currently
 
-- reading game theory and computation
-- hexapawn DOING ORIGINAL RESEARCH (n>=5)
+- reading combinatorical game theory
 - quarto solving time
 - cram for 3\*n for n>=21 meybe, misere grundy values 3\*n
+- analyse more 3 digit or 4 digit octal games
 
 ## wats here rn
 
@@ -20,5 +20,5 @@ sona - "knowledge"
 ## next
 
 - c/shorthand 
-- decode morse faster (sound light tapping)
+- decode morse faster (sound, light, tapping)
 - mine bitcoin by hand :>

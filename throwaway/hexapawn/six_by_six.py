@@ -135,24 +135,17 @@ class State:
 
 global data
 data={}
-state = State(4, 4, {(1, 1), (2, 1), (3, 1), (4, 1)}, {(1, 4), (2, 4), (3, 4), (4, 4)}, 1, 0)
+state = State(6, 6, {(1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1)}, {(1, 6), (2, 6), (3, 6), (4, 6), (5, 6), (6, 6)}, 1, 0)
 print(state.recursion_state())
-#print(data)
-
-
-white_move1=(4, 1, 4, 2)
-state = state.factory_apply(white_move1)
-
+print(data)
+print(data[state.get_hashable_state()])
 for move in state.get_moves():
-    if(data[state.factory_apply(move).get_hashable_state()]==-1):
-        print(move)
+    post_move = state.factory_apply(move)
+    if post_move.get_hashable_state() in data:
+        post_move.display_board()
+        print(data[post_move.get_hashable_state()], move)
 
-white_win_state = State(4, 4, {(2, 2), (3, 1), (4, 1)}, {(2, 3), (3, 4), (4, 3)}, 1, 0)
-white_win_state.display_board()
-print(white_win_state.recursion_state())
 
-post_move = white_win_state.factory_apply((4, 1, 4, 2))
-print(post_move.recursion_state())
 
 # pretty unoptimised and jank code. add depth checking (no. moves), alpha-beta pruning
 # and memoisation for cases. try to find symmetries

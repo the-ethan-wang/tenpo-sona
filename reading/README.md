@@ -1,7 +1,7 @@
 # reading
 
-1:8 ratio for "read" : "to read"  
-cooked.
+1 : 6
+read : unread
 
 ```bash
 pip install tqdm
@@ -15,18 +15,5 @@ python3 main.py
 
 ## ignore
 
-https://en.wikipedia.org/wiki/Halting_problem#cite_note-41
-
-`huh.txt` - idk wut these are even TALKING about 
-
 `seen_wiki.txt` - read
-
 `wiki.txt` - to read
-
-`half_wiki.txt` - i read half
-
-`empty.txt` - bru this article is unfinished
-
-https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D2%3Achapter%3D1 LOL https://www.youtube.com/watch?v=5L5tjscy85U
-
-Iliad

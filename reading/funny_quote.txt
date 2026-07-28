@@ -1,2 +1,4 @@
 "a tractable syntactic method for proving the absence of certain program behaviors by classifying phrases according to the kinds of values they compute" https://en.wikipedia.org/wiki/Programming_language_theory
 "a monad is a monoid in the category of endofunctors" https://en.wikipedia.org/wiki/Monad_(category_theory)
+"Paul Erdős conkectured that ... but this was disproved by Sárközy... Sárközy weakened Erdős's conjecture to ... This, in turn, was disproved by Imre z. Ruzsa" https://en.wikipedia.org/wiki/Square-difference-free_set
+"... will render the salt useless. However, see Pepper." https://en.wikipedia.org/wiki/Salt_(cryptography)
