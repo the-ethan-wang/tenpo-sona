@@ -8,7 +8,7 @@ sona - "knowledge"
 ## currently
 
 - reading game theory and computation
-- hexapawn DISPROVING WIKI ING
+- hexapawn DOING ORIGINAL RESEARCH (n>=5)
 - quarto solving time
 - cram for 3\*n for n>=21 meybe, misere grundy values 3\*n
 

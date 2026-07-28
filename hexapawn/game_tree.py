@@ -9,14 +9,21 @@ class State:
 
     def is_win(self):
         for point in self.p1:
-            if point[1]==self.n: return 1
+            if point[1]==self.n:
+                if self.turn==1:
+                    return 1
+                else:
+                    return -1
         for point in self.p2:
-            if point[1]==1: return 2
+                if self.turn==2:
+                    return 1
+                else:
+                    return -1
         return 0 # no direct win
 
     def is_stalemate(self):
         if len(self.get_moves())==0:
-            return (self.turn)%2+1
+            return -1
         return 0 # no stalemate win
 
     def display_board(self):
@@ -25,7 +32,7 @@ class State:
             board[point[1]-1][point[0]-1]=1
         for point in self.p2:
             board[point[1]-1][point[0]-1]=2
-        for i in range(self.n):
+        for i in range(self.n-1, -1):
             print(*board[i])
         print(self.turns,end="\n\n")
 
@@ -94,33 +101,58 @@ class State:
             new_state = State(self.n, self.m, new_p1, new_p2, (self.turn)%2+1, self.turns+1)
         return new_state
 
+    def get_hashable_state(self):
+        return (frozenset(self.p1), frozenset(self.p2), self.turns,self.turn)
+
     def recursion_state(self):
+        global data
+
+        if self.get_hashable_state() in data:
+            return data[self.get_hashable_state()]
+
         if(self.is_win()>0):
+            data[self.get_hashable_state()]=self.is_win()
             return self.is_win()
 
         if(self.is_stalemate()>0):
+            data[self.get_hashable_state()]=self.is_stalemate()
             return self.is_stalemate()
 
         if(self.turn==1):
             for move in self.get_moves():
                 post_move = self.factory_apply(move)
                 if post_move.recursion_state()==1:
+                    data[self.get_hashable_state()]=1
                     return 1
         else:
             for move in self.get_moves():
                 post_move = self.factory_apply(move)
                 if post_move.recursion_state()==2:
+                    data[self.get_hashable_state()]=1
                     return 1
+        data[self.get_hashable_state()]=-1
         return -1
 
-state = State(2, 2, {(1, 1), (2, 1)}, {(1, 2), (2, 2)}, 1, 0)
-print(state.recursion_state())
-
-state = State(3, 3, {(1, 1), (2, 1), (3, 1)}, {(1, 3), (2, 3), (3, 3)}, 1, 0)
-print(state.recursion_state())
-
+global data
+data={}
 state = State(4, 4, {(1, 1), (2, 1), (3, 1), (4, 1)}, {(1, 4), (2, 4), (3, 4), (4, 4)}, 1, 0)
 print(state.recursion_state())
+#print(data)
+
+
+white_move1=(4, 1, 4, 2)
+state = state.factory_apply(white_move1)
+
+for move in state.get_moves():
+    if(data[state.factory_apply(move).get_hashable_state()]==-1):
+        print(move)
+
+white_win_state = State(4, 4, {(2, 2), (3, 1), (4, 1)}, {(2, 3), (3, 4), (4, 3)}, 1, 0)
+white_win_state.display_board()
+print(white_win_state.recursion_state())
+
+post_move = white_win_state.factory_apply((4, 1, 4, 2))
+print(post_move.recursion_state())
 
 # pretty unoptimised and jank code. add depth checking (no. moves), alpha-beta pruning
 # and memoisation for cases. try to find symmetries

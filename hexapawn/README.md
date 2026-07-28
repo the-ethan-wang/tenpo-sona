@@ -4,6 +4,4 @@ I saw https://en.wikipedia.org/wiki/Hexapawn and was like ??? "citation needed" 
 
 ---
 
-lmao ok i implemented some pretty jank and unoptimised code and according to it the wiki is wrong
-
-either my code is wrong (pretty possible) or someone really needs to do research before contributing
+SCAMMED its a win for white
