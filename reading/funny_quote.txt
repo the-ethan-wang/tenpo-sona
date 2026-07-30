@@ -2,3 +2,7 @@
 "a monad is a monoid in the category of endofunctors" https://en.wikipedia.org/wiki/Monad_(category_theory)
 "Paul Erdős conkectured that ... but this was disproved by Sárközy... Sárközy weakened Erdős's conjecture to ... This, in turn, was disproved by Imre z. Ruzsa" https://en.wikipedia.org/wiki/Square-difference-free_set
 "... will render the salt useless. However, see Pepper." https://en.wikipedia.org/wiki/Salt_(cryptography)
+"It is really a puzzle only if the task of finding x is nontrivial and is nearly infeasible." https://en.wikipedia.org/wiki/Puzzle_friendliness
+"彁" https://en.wikipedia.org/wiki/Ghost_word
+"George Marsaglia (1972) considers x n + 1 = 69069 x n mod 2 32 {\displaystyle x_{n+1}=69069\,x_{n}{\bmod {2}}^{32}} as "a candidate for the best of all multipliers" because it is easy to remember, and has particularly large spectral test numbers." https://en.wikipedia.org/wiki/Spectral_test
+"Properties of an execution of a computer program—particularly for concurrent and distributed systems—have long been formulated by giving safety properties ("bad things don't happen") and liveness properties ("good things do happen")." https://en.wikipedia.org/wiki/Safety_and_liveness_properties

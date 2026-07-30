@@ -1,1 +1,0 @@
-print(*sorted(map(float,input().split(","))))

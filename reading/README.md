@@ -1,6 +1,6 @@
 # reading
 
-1 : 6
+1 : 5
 read : unread
 
 ```bash
@@ -13,7 +13,7 @@ python3 -m pip install tqdm
 python3 main.py
 ```
 
-## ignore
+## files
 
-`seen_wiki.txt` - read
+`seen_wiki.txt` - read  
 `wiki.txt` - to read
