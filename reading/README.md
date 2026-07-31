@@ -1,6 +1,6 @@
 # reading
 
-1 : 5
+1 : 4.75
 read : unread
 
 ```bash

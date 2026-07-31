@@ -10,12 +10,12 @@ wiki_html = wikipediaapi.Wikipedia(user_agent='Wikistats (ethan_and_such@gmail.c
 def get_data(page: wikipediaapi.WikipediaPage):
     assert page.exists()
     return {
-        "title": page.title,
-        "sections": page.sections,
-        "summary": page.summary,
+        #"title": page.title,
+        #"sections": page.sections,
+        #"summary": page.summary,
         "fullurl": page.fullurl,
-        "canonicalurl": page.canonicalurl,
-        "categories": page.categories,
+        #"canonicalurl": page.canonicalurl,
+        #"categories": page.categories,
         "length": page.length,
     }
 
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
     datas = [get_data(page) if page else {} for page in tqdm(pages, desc="Extracting data")]
 
-    print("Sorting my length...")
+    print("Sorting by length...")
 
     datas.sort(key=lambda data: data["length"])
 
