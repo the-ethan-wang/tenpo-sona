@@ -8,9 +8,7 @@ sona - "knowledge"
 ## currently
 
 - reading combinatorical game theory
-- quarto solving time
-- cram for 3\*n for n>=21 meybe, misere grundy values 3\*n
-- analyse more 3 digit or 4 digit octal games
+- code-39 barcode generator
 
 ## wats here rn
 

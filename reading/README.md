@@ -1,6 +1,6 @@
 # reading
 
-1 : 4.75
+1 : 4
 read : unread
 
 ```bash
@@ -17,3 +17,7 @@ python3 main.py
 
 `seen_wiki.txt` - read  
 `wiki.txt` - to read
+
+ill make a bsearch nlogn program to insert `znew.txt` into `wiki.txt`
+
+...eventually

@@ -6,3 +6,5 @@
 "彁" https://en.wikipedia.org/wiki/Ghost_word
 "George Marsaglia (1972) considers x n + 1 = 69069 x n mod 2 32 {\displaystyle x_{n+1}=69069\,x_{n}{\bmod {2}}^{32}} as "a candidate for the best of all multipliers" because it is easy to remember, and has particularly large spectral test numbers." https://en.wikipedia.org/wiki/Spectral_test
 "Properties of an execution of a computer program—particularly for concurrent and distributed systems—have long been formulated by giving safety properties ("bad things don't happen") and liveness properties ("good things do happen")." https://en.wikipedia.org/wiki/Safety_and_liveness_properties
+"... to quip that his book is called "The Bible of Software Engineering", because "everybody quotes it, some people read it, and a few people go by it"." https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+"The sixth game of the World Chess Championship 2010 between Viswanathan Anand and Veselin Topalov saw Anand making 13 consecutive knight moves (albeit using both knights); online commentators jested that Anand was trying to solve the knight's tour problem during the game." https://en.wikipedia.org/wiki/Knight%27s_tour

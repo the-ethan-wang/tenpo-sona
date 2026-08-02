@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Rendezvous_problem
+https://en.wikipedia.org/wiki/24_(puzzle) - computational analysis
+https://en.wikipedia.org/wiki/Semi-infinite_programming
+https://en.wikipedia.org/wiki/Knight%27s_tour - m * n board information, closed or unclosed or either
+https://en.wikipedia.org/wiki/No-three-in-line_problem n>70
