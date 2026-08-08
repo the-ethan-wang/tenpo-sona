@@ -1,13 +1,4 @@
 https://en.wikipedia.org/wiki/Dense-in-itself
-https://en.wikipedia.org/wiki/Incentive_compatibility
-https://en.wikipedia.org/wiki/Imre_Z._Ruzsa
-https://en.wikipedia.org/wiki/Multidimensional_parity-check_code
-https://en.wikipedia.org/wiki/Clifford_Berry
-https://en.wikipedia.org/wiki/Toda%27s_theorem
-https://en.wikipedia.org/wiki/Multitape_Turing_machine
-https://en.wikipedia.org/wiki/Mex_(mathematics)
-https://en.wikipedia.org/wiki/Roger_Ap%C3%A9ry
-https://en.wikipedia.org/wiki/List_of_impossible_puzzles
 https://en.wikipedia.org/wiki/Trisectrix_of_Maclaurin
 https://en.wikipedia.org/wiki/Neural_Turing_machine
 https://en.wikipedia.org/wiki/WalkSAT
@@ -17,7 +8,6 @@ https://en.wikipedia.org/wiki/Regenerative_process
 https://en.wikipedia.org/wiki/Knapsack_auction
 https://en.wikipedia.org/wiki/Perspective_(geometry)
 https://en.wikipedia.org/wiki/Independence_(mathematical_logic)
-https://en.wikipedia.org/wiki/Resource_allocation
 https://en.wikipedia.org/wiki/Distributed_algorithm
 https://en.wikipedia.org/wiki/Buffer_underrun
 https://en.wikipedia.org/wiki/Wilhelm_Ackermann
@@ -594,7 +584,6 @@ https://en.wikipedia.org/wiki/Conjunctive_normal_form
 https://en.wikipedia.org/wiki/Geometric_mean
 https://en.wikipedia.org/wiki/Nuclear_transmutation
 https://en.wikipedia.org/wiki/Random_number_generation
-https://en.wikipedia.org/wiki/Nim
 https://en.wikipedia.org/wiki/Concurrent_computing
 https://en.wikipedia.org/wiki/Computer_memory
 https://en.wikipedia.org/wiki/Network_eavesdropping

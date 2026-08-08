@@ -1,8 +1,12 @@
 On Computable numbers, with an application to the entsheidungsproblem - https://www.astro.puc.cl/~rparra/tools/PAPERS/turing_1936.pdf
+shannon 1948 https://web.archive.org/web/19980715013250/http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
+https://gwern.net/doc/cs/computable/1962-rado.pdf on non computable functions
+busy beaver and collatz-like problems https://www.cs.cmu.edu/~cdm/projects/BusyBeaver/Michel1993-busy-beaver-Collatz.pdf
+
+
 Descartes, Meditations on First Philosophy
 Philosophiæ Naturalis Principia Mathematica (newton)
 Suppression of X-Ray-Induced Radiation Damage to Biomolecules in Aqueous Environments by Immediate Intermolecular Decay of Inner-Shell Vacancies
-https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication 1948
 https://www.jstor.org/stable/1969529?origin=crossref
 https://proceedings.mlr.press/v162/emmons22a/emmons22a.pdf
 https://dl.acm.org/doi/10.1145/301250.301287

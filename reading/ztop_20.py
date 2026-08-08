@@ -3,5 +3,5 @@ import random, webbrowser
 with open("reading/wiki.txt", "r") as f:
     pages = [x.rstrip() for x in f.readlines()]
 
-for i in range(20):
+for i in range(10):
     webbrowser.open(pages[i])

@@ -7,8 +7,9 @@ sona - "knowledge"
 
 ## currently
 
-- reading combinatorical game theory
+- reading wikipedia
 - code-39 barcode generator
+- qr code generator when
 
 ## wats here rn
 
@@ -18,5 +19,5 @@ sona - "knowledge"
 ## next
 
 - c/shorthand 
-- decode morse faster (sound, light, tapping)
+- decode morse faster also tapping alphabet (sound, light, tapping)
 - mine bitcoin by hand :>

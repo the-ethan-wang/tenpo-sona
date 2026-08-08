@@ -3,3 +3,6 @@ https://en.wikipedia.org/wiki/24_(puzzle) - computational analysis
 https://en.wikipedia.org/wiki/Semi-infinite_programming
 https://en.wikipedia.org/wiki/Knight%27s_tour - m * n board information, closed or unclosed or either
 https://en.wikipedia.org/wiki/No-three-in-line_problem n>70
+blindfolded speedcubing article???
+https://en.wikipedia.org/wiki/Longest_uncrossed_knight's_path n>=10 for unclosed and n>=11 for closed
+https://oeis.org/A000755 this looks cool but also unimprovable probably
